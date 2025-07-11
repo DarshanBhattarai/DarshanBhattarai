@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on [Digital-pathshala-testomonial-page](https://github.com/Anubis1030/Digital-pathshala-testomonial-page.git)
 
 - 📫 How to reach me **drshnbhattarai@gmail.com**
 
