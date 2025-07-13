@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan Bhattarai</h1>
 <h3 align="center">"Code. Design. Animate. Repeat. | Crafting Digital Experiences with MERN & Motion"</h3>
-## 🖥️ ShowHub Animation
+
 
 ![Typing animation](assets/coding.gif)
 
