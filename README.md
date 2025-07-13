@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darshan Bhattarai</h1>
 <h3 align="center">"Code. Design. Animate. Repeat. | Crafting Digital Experiences with MERN & Motion"</h3>
+## 🖥️ ShowHub Animation
+
+![Typing animation](assets/coding.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanbhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="darshanbhattarai" /> </p>
 
