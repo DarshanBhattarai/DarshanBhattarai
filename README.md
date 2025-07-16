@@ -2,9 +2,11 @@
 <h3 align="center">"Code. Design. Animate. Repeat. | Crafting Digital Experiences with MERN & Motion"</h3>
 
 
-![Typing animation](assets/coding.gif)
+<p align="center">
+  <img src="assets/coding.gif" alt="Typing animation" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanbhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="darshanbhattarai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanbhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="darshanbhattarai" align="center"/> </p>
 
 - 🔭 I’m currently working on [Ecommerce website](https://github.com/DarshanBhattarai/Ecommerce-Website.git)
 
