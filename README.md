@@ -1,13 +1,15 @@
 <p align="center">
   <img src="assets/coding.gif" alt="Typing animation" width="100%" style="height:auto; object-fit:cover;" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanbhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="darshanbhattarai" align="center"/> </p>
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="60">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=500&size=26&duration=4000&pause=1000&color=FFFFFF&width=800&height=40&lines=Hi+there!;I+am+Darshan+Bhattarai;A+curious+and+ambitious+full-stack+developer;Exploring+AI%2C+SaaS%2C+and+modern+web+technologies;Constantly+learning%2C+creating%2C+and+innovating" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=500&size=26&duration=4000&pause=1000&color=FFFFFF&width=800&height=40&lines=Hi+there!;I+am+Darshan+Bhattarai;A+curious+and+ambitious+full-stack+developer;Exploring+AI%2C+SaaS%2C+and+modern+web+technologies;Constantly+learning%2C+creating%2C+and+innovating" 
+         alt="Typing SVG" />
   </a>
 </div>
+
+
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
