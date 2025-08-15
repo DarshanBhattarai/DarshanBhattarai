@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Darshan Bhattarai</h1>
-<h3 align="center">"Code. Design. Animate. Repeat. | Crafting Digital Experiences with MERN & Motion"</h3>
-
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inter&weight=500&size=26&duration=4000&pause=1000&color=FFFFFF&width=800&height=40&lines=Hi+there!;I+am+Darshan+Bhattarai;A+curious+and+ambitious+full-stack+developer;Exploring+AI%2C+SaaS%2C+and+modern+web+technologies;Constantly+learning%2C+creating%2C+and+innovating" alt="Typing SVG" /></a>
+---
 
 <p align="center">
-  <img src="assets/coding.gif" alt="Typing animation" />
+  <img src="assets/coding.gif" alt="Typing animation" width="100%" style="height:auto; object-fit:cover;" />
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanbhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="darshanbhattarai" align="center"/> </p>
 
-- 🔭 I’m currently working on [Ecommerce website](https://github.com/DarshanBhattarai/Ecommerce-Website.git)
+### 🔹 About Me & Current Focus
 
-- 🌱 I’m currently learning **MERN**
+- 🔭 Currently building: [Ecommerce Website](https://github.com/DarshanBhattarai/Ecommerce-Website.git) – a full-stack MERN application.  
+- 🌱 Continuously learning and experimenting with **MERN Stack**, **Next.js**, and **AI-powered applications**.  
+- 💡 Passionate about turning ideas into real-world SaaS products.  
+- 📫 Get in touch: [drshnbhattarai@gmail.com](mailto:drshnbhattarai@gmail.com)  
+- 🌐 Explore my portfolio: [Your Portfolio Link](https://yourportfolio.com)
 
 
-- 📫 How to reach me **drshnbhattarai@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
