@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=500&size=24&duration=4000&pause=1000&color=FFFFFF&width=700&height=40&lines=Hi+there!;I+am+Darshan+Bhattarai;A+curious+and+ambitious+full-stack+developer;Exploring+AI%2C+SaaS%2C+and+modern+web+technologies;Constantly+learning%2C+creating%2C+and+innovating" 
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=500&size=24&duration=4000&pause=1000&color=FFFFFF&width=700&height=40&lines=Hi+there!;I+am+Darshan+Bhattarai;A+curious+and+ambitious+full-stack+developer;Exploring+AI+and+modern+web+technologies;Constantly+learning%2C+creating%2C+and+innovating" 
          alt="Typing SVG" />
   </a>
 </div>
